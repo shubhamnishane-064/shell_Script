@@ -1,0 +1,61 @@
+1. Create first Cronjob
+min h  day m w 
+* * * * * echo "hellow $(whoami)" >> /home/shubham/shel/cronnew.txt
+
+
+hellow shubham 
+hellow shubham 
+hellow shubham 
+hellow shubham 
+hellow shubham 
+hellow shubham 
+hellow shubham 
+hellow shubham 
+hellow shubham 
+hellow shubham 
+hellow shubham 
+hellow shubham 
+hellow shubham 
+hellow shubham 
+hellow shubham 
+hellow shubham 
+hellow shubham 
+hellow shubham 
+hellow shubham 
+hellow shubham 
+hellow shubham 
+hellow shubham 
+hellow shubham 
+hellow shubham 
+hellow shubham 
+hellow shubham 
+hellow shubham 
+hellow shubham 
+
+2. Create new shell script disk info with second Cronjob
+min h  day m w
+* * * * * /hme/shubham/shel/diskinformation.sh >> /home/shubham/shel/cronnew.txt
+
+
+SYSTEM INFO for shubham-IdeaPad-Gaming-3-15IHU6
+-----hellow shubham this is your system helth  
+User     : shubham
+Date     : Mon Oct 01 09:13:01 AM IST 2026
+Uptime   : up 1 hour, 11 minutes
+Kernel   : 6.17.0-35-generic
+-----hellow shubham this is your system helth  
+Disk (root /):
+/dev/nmin h  day m w
+* * * * * echo "hellow $(whoami)" >> /home/shubham/shel/cronnew.txtvme0n1p6   99G   61G   33G  66% /
+-----hellow shubham this is your system helth  
+Memory:
+Used 5667 MB of 7723 MB
+-----hellow shubham this is your system helth  
+Top 5 processes by CPU:
+    PID COMMAND         %CPU
+   4946 brave           55.4
+   4884 brave           15.3
+  11867 code            14.9
+   3759 gnome-shell     13.3
+  11832 code             7.2
+
